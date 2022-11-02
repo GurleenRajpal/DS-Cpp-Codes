@@ -1,4 +1,5 @@
 //https://www.codingninjas.com/codestudio/problems/range-sum-query-mutable_1386551
+// Solution - 
 
 #include <bits/stdc++.h> 
 #include <vector>

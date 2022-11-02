@@ -4,3 +4,4 @@ Hi, My name is Gurleen Rajpal. This repository contains the CPP codes from begin
 | Topics | 
 | ------ | 
 | Linked List | 
+|Segment Tree|

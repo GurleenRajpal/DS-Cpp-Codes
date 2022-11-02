@@ -1,42 +1,42 @@
-Maximum Pair Sum
+// Maximum Pair Sum
 
-You are given a sequence A[1], A[2], ..., A[N], ( 0 ≤ A[i] ≤ 10^8 , 2 ≤ N ≤ 10^5 ). There are two types of operations and they are defined as follows:
-Update:
-This will be indicated in the input of a 'U' followed by space and then two integers i and x.
-U i x
-This operation sets the value of A[i] to x.
-Query:
-This will be indicated in the input of a 'Q' followed by a single space and then two integers x and y.
-Q x y
-You must find two integers i and j such that x ≤ i, j ≤ y and i != j, such that the sum A[i]+A[j] is maximized. Print the sum A[i]+A[j].
-Input Format:
-The first line of input contains an integer N, representing the length of the sequence. 
-The second line of input contains of N space separated integers, A[i]. 
-The third line of input contains an integer Q, Q ≤ 10^5, representing the number of operations. 
-Next Q lines contain the operations.
-Constraints:
-1 ≤ i ≤ N
-0 ≤ x ≤ 10^8
-1 ≤ x < y ≤ N
-Output Format:
-For each query, print the maximum sum mentioned above, in a new line.
-Sample Input 1:
-5
-1 2 3 4 5
-6
-Q 2 4
-Q 2 5
-U 1 6
-Q 1 5
-U 1 7
-Q 1 5
-Sample Output 1:
-7
-9
-11
-12
+// You are given a sequence A[1], A[2], ..., A[N], ( 0 ≤ A[i] ≤ 10^8 , 2 ≤ N ≤ 10^5 ). There are two types of operations and they are defined as follows:
+// Update:
+// This will be indicated in the input of a 'U' followed by space and then two integers i and x.
+// U i x
+// This operation sets the value of A[i] to x.
+// Query:
+// This will be indicated in the input of a 'Q' followed by a single space and then two integers x and y.
+// Q x y
+// You must find two integers i and j such that x ≤ i, j ≤ y and i != j, such that the sum A[i]+A[j] is maximized. Print the sum A[i]+A[j].
+// Input Format:
+// The first line of input contains an integer N, representing the length of the sequence. 
+// The second line of input contains of N space separated integers, A[i]. 
+// The third line of input contains an integer Q, Q ≤ 10^5, representing the number of operations. 
+// Next Q lines contain the operations.
+// Constraints:
+// 1 ≤ i ≤ N
+// 0 ≤ x ≤ 10^8
+// 1 ≤ x < y ≤ N
+// Output Format:
+// For each query, print the maximum sum mentioned above, in a new line.
+// Sample Input 1:
+// 5
+// 1 2 3 4 5
+// 6
+// Q 2 4
+// Q 2 5
+// U 1 6
+// Q 1 5
+// U 1 7
+// Q 1 5
+// Sample Output 1:
+// 7
+// 9
+// 11
+// 12
 
-Soltion - 
+// Soltion - 
 
 #include<bits/stdc++.h>
 using namespace std;

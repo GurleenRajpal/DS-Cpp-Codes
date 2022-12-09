@@ -1,9 +1,9 @@
-Print the following pattern for the given N number of rows.
-Pattern for N = 3
+// Print the following pattern for the given N number of rows.
+// Pattern for N = 3
 
- A
- BB
- CCC
+//  A
+//  BB
+//  CCC
 
 #include<iostream>
 using namespace std;

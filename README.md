@@ -3,6 +3,8 @@ Hi, My name is Gurleen Rajpal. This repository contains the C++ codes from begin
 ## Topics
 | Topics | 
 | ------ | 
+| Conditional and Loops |
+| Pattern |
 | Linked List | 
 | Tree |
 | Segment Tree |

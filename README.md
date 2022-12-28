@@ -9,6 +9,31 @@ Hi, My name is Gurleen Rajpal. This repository contains the C++ codes from begin
 | Function |
 | Array |
 | Search and Sort |
-| Linked List | 
+| Search and Sort Application |
+| Character and 2D Array |
+| Recursion |
+| Backtracking |
+| OOPS |
+| Linked List |
+| Stacks |
+| Queue |
 | Tree |
+| Binary Tree |
+| Binary Search Tree |
+| Priority Queue |
+| Hashmap |
+| Tries |
+| Huffman Coding |
+| Dynamic Programming |
+| Graph |
 | Segment Tree |
+| Fenwick Tree |
+| Adhoc Problems |
+| Modulo Arithmetic |
+| Bit Manipulation |
+| DP and Bitmasking |
+| Number Theory |
+| Greedy Problems |
+| Game Theory Basic |
+| String Algorithm |
+| Computational Geometry |

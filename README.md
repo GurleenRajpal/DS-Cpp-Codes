@@ -7,6 +7,8 @@ Hi, My name is Gurleen Rajpal. This repository contains the C++ codes from begin
 | Pattern |
 | Operator and Loop |
 | Function |
+| Array |
+| Search and Sort |
 | Linked List | 
 | Tree |
 | Segment Tree |

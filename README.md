@@ -5,6 +5,8 @@ Hi, My name is Gurleen Rajpal. This repository contains the C++ codes from begin
 | ------ | 
 | Conditional and Loops |
 | Pattern |
+| Operator and Loop |
+| Function |
 | Linked List | 
 | Tree |
 | Segment Tree |

@@ -5,7 +5,7 @@ Hi, My name is Gurleen Rajpal. This repository contains the C++ codes from begin
 I have written the book regarding the theory of the below mentioned topic. Please find the book at - 
 
 ## Topics
-| Topic | Topic | Topic |
+| Topics |  |  |
 | ------ | ----- | ------ |
 | Conditional and Loops | Pattern | Operator and Loop |
 

@@ -6,8 +6,10 @@ I have written the book regarding the theory of the below mentioned topic. Pleas
 
 ## Topics
 
-| ------ | -----|------|
+| ------ |----- | ------ |
 | Conditional and Loops | Pattern | Operator and Loop |
+
+| ----- |
 | Function |
 | Array |
 | Search and Sort |

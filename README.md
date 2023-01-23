@@ -1,4 +1,4 @@
-# DS-C++-Codes From Beginner to CP
+# DS-C++-Codes From Beginner to Competitive Programmer
 Hi, My name is Gurleen Rajpal. This repository contains the C++ codes from beginner to advanced. This are all the codes that are made by me, while taking the course on data structure and algorithms using C++. 
 
 ## Book Link

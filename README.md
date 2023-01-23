@@ -7,8 +7,7 @@ I have written the book regarding the theory of the below mentioned topic. Pleas
 ## Topics
 | Topics | 
 | ------ | 
-| Conditional and Loops |
-| Pattern |
+| Conditional and Loops || Pattern |
 | Operator and Loop |
 | Function |
 | Array |

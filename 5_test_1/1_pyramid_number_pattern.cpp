@@ -4,48 +4,48 @@
 
 // Sample Input :
 // 5
+
 // Sample Output :
 //     1
 //    212
 //   32123
 //  4321234
 // 543212345
-      
-      
 
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
 
-  // Write your code here  
-	int n;
-    cin>>n;
+    int n;
+    cin >> n;
     int i = 1;
     int j = 1;
-    
-    while(i<=n){
-        int spaces = n-i;
-        while(spaces){
-            cout<<" ";
+
+    while (i <= n)
+    {
+        int spaces = n - i;
+        while (spaces)
+        {
+            cout << " ";
             spaces--;
         }
         j = i;
-        
-        while(j){
-            cout<<j;
+
+        while (j)
+        {
+            cout << j;
             j--;
         }
-        j=2;
-        while(j<=i){
-            cout<<j;
+        j = 2;
+        while (j <= i)
+        {
+            cout << j;
             j++;
         }
-        cout<<endl;
-        
-        i++;
-        
-    }
-  
-}
+        cout << endl;
 
+        i++;
+    }
+}
